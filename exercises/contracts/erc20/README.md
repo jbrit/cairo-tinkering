@@ -10,8 +10,6 @@ You should modify **ONLY** the file `erc20.cairo` in `exercises/contracts/`.
 
 If a feature is complete, run again to see the test output:
 
-Functions that need to be implemented are specified in the `@contract_interface` in `test_erc20.cairo`.
-
 ### Features to implement
 
 #### Even transfer
